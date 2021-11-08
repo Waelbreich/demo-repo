@@ -1,2 +1,2 @@
 # Demo
-First demo to explore GH
+First demo to explore GH.
